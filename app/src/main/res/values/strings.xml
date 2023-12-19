@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="name">Заметки</string>
+    <string name="create_button_text">Создать</string>
+</resources>
